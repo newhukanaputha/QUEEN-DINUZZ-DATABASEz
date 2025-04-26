@@ -1,5 +1,5 @@
 {
-  "PREFIX": ".",
+  "PREFIX": ",",
   "PORT": "8000",
   "SUDO": "94775341543",
   "SESSION_NAME": "suddh",
@@ -12,7 +12,7 @@
   "ANTI_BAD": "false",
   "ANTI_LINK": "true",
   "ANTI_CALL": "true",
-  "DELETEMSGSENDTO": "",
+  "DELETEMSGSENDTO": "94775341543",
   "ANTI_DELETE": "false",
   "ANTI_BOT": "true",
   "WELCOME_GOODBYE": "false",
